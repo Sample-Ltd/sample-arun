@@ -1,1 +1,1 @@
-print("This is a sample -1 ")
+print("This is a sample")
